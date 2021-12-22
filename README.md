@@ -9,3 +9,7 @@ https://nijianmo.github.io/amazon/index.html
 
 ![image](https://user-images.githubusercontent.com/52172667/147124282-661cfd0a-a254-4d7e-9476-2c31a413171c.png)
 
+- Tham khảo và các thuật toán tương tự tại:
+```sh
+https://github.com/mandeep147/Amazon-Product-Recommender-System
+```
